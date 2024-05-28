@@ -12,4 +12,10 @@ The primary source of Data used here is from kaggle [Here](www.Kaggle.com) Other
 - SQL[Download Here](https://microsoft.com/en-us/sql-server/sql-server-downloads)
 
  ## Project Overview
- ---
+ ---nput
+
+Google Query Sheet
+
+SELECT * FROM TABLE I
+
+```
