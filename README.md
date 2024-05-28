@@ -6,6 +6,7 @@ This Data Analysis project aims to generate into performance of transportatation
 The primary source of Data used here is DAta Sale.csv and this is an open source of data
 
 ## Tools used
--Ms Excel-
+-Ms Excel
 -Mirosoft Power BI, 
 -Python
+-SQL
