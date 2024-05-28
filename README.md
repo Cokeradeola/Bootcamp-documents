@@ -25,6 +25,8 @@ WHERE CONDITION = MET
 
 ![](DSCF0236.JPG)
 
+![](
+
 
 
 
