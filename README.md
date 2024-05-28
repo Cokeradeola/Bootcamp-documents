@@ -23,4 +23,4 @@ WHERE CONDITION = MET
 ```
 
 
-![] SIMON 2
+![] (SIMON 2)
