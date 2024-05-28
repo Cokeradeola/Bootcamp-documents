@@ -7,6 +7,6 @@ The primary source of Data used here is DAta Sale.csv and this is an open source
 
 ## Tools used
 - Ms Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
-- Mirosoft Power BI, 
+- Mirosoft Power BI,[download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Python
 - SQL
